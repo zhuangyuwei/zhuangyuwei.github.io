@@ -1,6 +1,6 @@
 #### Submitted
 
-- 
+- Xinzhou Qi, <strong>Zhuangyu Wei*</strong>, Ruiqian Jia. Sustainable synergy: Orchestrating innovation dynamics in regional landscape of China.
 
 #### Published in English
 - Anxing Peng, <strong>Zhuangyu Wei*</strong>, Xiaoling Yu. (Forthcoming). Money in the Utility and Production Function: A DSGE Approach. <strong>Economist-Netherlands</strong>. [Journal article] [<strong>SSCI, JCR Q2</strong>]
