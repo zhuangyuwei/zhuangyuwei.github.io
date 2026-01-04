@@ -3,13 +3,13 @@
 - Xinzhou Qi†, <strong>Zhuangyu Wei†, *</strong>, Ruiqian Jia, Long Sun. Corporate choices and regional futures: Examining the impact of sustainability strategy on regional innovation.
 
 #### Published in English 
-- Jing Gao†, Jing He, <strong>Zhuangyu Wei†, *</strong>, XiaoKai Lei. (Forthcoming). Bridging the information gap: Assessing the impact of online attention on firm productivity. <strong>International Journal of Emerging Markets</strong>. [Journal article] [<strong>SSCI, JCR Q1</strong>]
+- Jing Gao†, Jing He, <strong>Zhuangyu Wei†, *</strong>, Xiaokai Lei. (Forthcoming). Bridging the information gap: Assessing the impact of online attention on firm productivity. <strong>International Journal of Emerging Markets</strong>. [Journal article] [<strong>SSCI, JCR Q1</strong>]
 
 - Anxing Peng, <strong>Zhuangyu Wei*</strong>, Xiaoling Yu. (2025). Money in the Utility and Production Function: A DSGE Approach. <strong>De Economist / Economist-Netherlands / Netherlands Economic Review</strong>. [[Journal article]](https://doi.org/10.1007/s10645-025-09458-6) [<strong>SSCI, JCR Q2</strong>]
 
 - Jing He, <strong>Zhuangyu Wei*</strong>, Xiaokai Lei. (2025). Unveiling the digital revolution: Catalyzing total factor productivity in agriculture. <strong>PLOS One</strong>. [[Journal article]](https://doi.org/10.1371/journal.pone.0318333) [<strong>SCI, JCR Q1</strong>]
 
-- Xin-Zhou Qi, Eric Ping Hung Li, <strong>Zhuangyu Wei*</strong>, Zhong Ning. (2024). Bridging the valley of death: examining university science parks' influence on revenue generation. <strong>International Journal of Entrepreneurial Behavior & Research</strong>. [[Journal article]](https://doi.org/10.1108/IJEBR-05-2023-0475) [<strong>AJG3/ SSCI, JCR Q1</strong>]
+- Xin-Zhou Qi, Eric Ping Hung Li, <strong>Zhuangyu Wei*</strong>, Zhong Ning. (2024). Bridging the valley of death: examining university science parks' influence on revenue generation. <strong>International Journal of Entrepreneurial Behavior & Research</strong>. [[Journal article]](https://doi.org/10.1108/IJEBR-05-2023-0475) [<strong>ABS3/ SSCI, JCR Q1</strong>]
 
 
 #### Published in Chinese
