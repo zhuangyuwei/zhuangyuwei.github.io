@@ -3,7 +3,7 @@
 - Xinzhou Qi†, <strong>Zhuangyu Wei†, *</strong>, Ruiqian Jia, Long Sun. Corporate choices and regional futures: Examining the impact of sustainability strategy on regional innovation.
 
 #### Published in English 
-- Li Qiu, <strong>Zhuangyu Wei*</strong>, Jing He. (Forthcoming). How do national wetland parks promote corporate green innovation? Evidence from a quasi-natural experiment in China. <strong>Journal of Cleaner Production</strong>. [Journal article] [<strong>SCI, JCR Q1/ 中科院一区</strong>]
+- Li Qiu, <strong>Zhuangyu Wei*</strong>, Jing He. (2026). How do national wetland parks promote corporate green innovation? Evidence from a quasi-natural experiment in China. <strong>Journal of Cleaner Production</strong>. [[Journal article]](https://doi.org/10.1016/j.jclepro.2026.147526) [<strong>SCI, JCR Q1/ 中科院一区</strong>]
 
 - Jing Gao†, Jing He, <strong>Zhuangyu Wei†, *</strong>, Xiaokai Lei. (2026). Bridging the information gap: assessing the impact of online attention on firm productivity. <strong>International Journal of Emerging Markets</strong>.  [[Journal article]](https://doi.org/10.1108/IJOEM-03-2025-0639)[<strong>SSCI, JCR Q1</strong>]
 
