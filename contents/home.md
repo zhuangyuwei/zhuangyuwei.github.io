@@ -1,4 +1,4 @@
-I am a postdoctoral researcher at the School of Management, China Institute for Studies in Energy Policy, Collaborative Innovation Center for Energy Economics and Energy Policy, Xiamen University. My research focuses on industrial economics, China's economy, digital economics, energy economics and environmental economics. My research typically employs econometric methods to investigate topics in economics and management. I adhere to strict standards of academic integrity, requiring that all co-authors make a substantive intellectual contribution to warrant authorship.
+I am a postdoctoral fellow at the School of Management, Xiamen University. My research focuses on Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics and China's Economy. My research typically employs econometric methods to investigate topics in economics and management. I adhere to strict standards of academic integrity, requiring that all co-authors make a substantive intellectual contribution to warrant authorship. I can be reached at weizhuangyu@xmu.edu.cn/ gxnnwzy123@163.com.
 
 #### Contact
 
@@ -12,5 +12,5 @@ B.S. in Thermal Energy and Power Engineering, School of Mechanical Engineering, 
 
 #### Research Interests
 
-Industrial Economics, Energy Economics, Environmental Economics.
+Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics and China's Economy.
 
