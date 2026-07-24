@@ -1,8 +1,8 @@
-I am a postdoctoral fellow at the School of Management, Xiamen University. My research focuses on Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics and China's Economy. My research typically employs econometric methods to investigate topics in economics and management. I adhere to strict standards of academic integrity, requiring that all co-authors make a substantive intellectual contribution to warrant authorship.
+I am a lecturer at the School of Humanities and Social Sciences, Guangxi Medical University. My research focuses on Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics, Health Policy Evaluation and China's Economy. My research typically employs econometric methods to investigate topics in economics and management. I adhere to strict standards of academic integrity, requiring that all co-authors make a substantive intellectual contribution to warrant authorship.
 
 #### Contact
 
-Email: weizhuangyu@xmu.edu.cn / gxnnwzy123@163.com
+Email: gxnnwzy123@163.com / weizhuangyu@xmu.edu.cn
 
 #### Education
 
@@ -12,5 +12,5 @@ B.S. in Thermal Energy and Power Engineering, School of Mechanical Engineering, 
 
 #### Research Interests
 
-Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics and China's Economy.
+Industrial Economics, Corporate Finance and Governance, Digital Economics, Environmental Economics, Energy Economics, Health Policy Evaluation and China's Economy.
 
