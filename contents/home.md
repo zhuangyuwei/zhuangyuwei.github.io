@@ -2,7 +2,7 @@ I am a lecturer at the School of Humanities and Social Sciences, Guangxi Medical
 
 #### Contact
 
-Email: gxnnwzy123@163.com / marinelord@sr.gxmu.edu.cn
+Email: gxnnwzy123@163.com / zhuangyuwei@sr.gxmu.edu.cn
 
 #### Education
 
