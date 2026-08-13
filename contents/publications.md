@@ -15,6 +15,8 @@
 
 
 #### Published in Chinese
+- 廖月婷, <strong>韦庄禹*</strong>, 杨天山. (录用). 研究生教育规模扩张对创业的影响——基于省际面板数据的实证分析. <strong>技术经济与管理研究</strong>. [期刊论文] [<strong>北大核心</strong>]
+
 - 张煦, <strong>韦庄禹*</strong>. (2025). 全球价值链嵌入能否改善制造业企业资源错配？. <strong>财经理论与实践</strong>. [[期刊论文]](https://doi.org/10.16339/j.cnki.hdxbcjb.2025.01.018) [<strong>CSSCI来源/ 北大核心</strong>]
 
 - <strong>韦庄禹</strong>, 武可栋*. (2024). 数字经济与企业资本配置效率. <strong>调研世界</strong>. [[期刊论文]](https://doi.org/10.13778/j.cnki.11-3705/c.2024.05.004) [<strong>CSSCI拓展</strong>]
